@@ -1,0 +1,1 @@
+# xotoscript-auto-translate
